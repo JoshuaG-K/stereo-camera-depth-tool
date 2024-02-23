@@ -1,2 +1,2 @@
 # stereo-camera-depth-tool
-Tool used to get depth from a stereo camera
+Demo notebook to get a better understanding of stereo depth estimation/
